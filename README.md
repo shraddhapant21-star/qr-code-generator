@@ -30,4 +30,4 @@ Click Generate QR Code
 Scan or download the generated QR code
 
 ## Live Demo
-
+https://shraddhapant21-star.github.io/qr-code-generator/
